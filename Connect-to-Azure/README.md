@@ -97,7 +97,7 @@ You can connect your Video Indexer account with your existing Azure Media Servic
 * If you have an Azure Media Services account in the same region with your new Paid Video Indexer account
 * If you have an Azure Media Services account in a region which is different from a region of your new Paid Video Indexer account
 
-### Case 1 : Same region between AMS and VI account
+#### Case 1 : Same region between AMS and VI account
 
 If you will create a Video Indexer account in a region which is same with your existing Azure Media Services account, you can follow steps below when operating *Connect to Azure* in Video Indexer portal:
 
@@ -106,7 +106,7 @@ If you will create a Video Indexer account in a region which is same with your e
 3. Select *Use existing resource group* and select Azure Media Services account in the pull down menu
 4. Click *Connect* button
 
-### Case 2 : Different region between AMS and VI account
+#### Case 2 : Different region between AMS and VI account
 
 If you will create a Video Indexer account in a region which is different from your existing Azure Media Services account, you can still connect your Video Indexer account with your existing Azure Media Services with the following steps below when operating *Connect to Azure* in Video Indexer portal.
 
